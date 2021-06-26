@@ -1,4 +1,36 @@
 <html>
+    <style>
+        
+#main{
+    max-width: 1100px; 
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color:rgb(204, 146, 75);
+    border-radius: 5px;
+
+}
+#h1 {
+    text-align:center;
+
+}
+#img-caption{
+    width:auto ;
+}
+#image{
+    display:block;
+    max-width: 100%;
+    height:auto;
+}
+#img-div{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+}
+#tribute-info{
+    text-align:center;
+}
+    </style>
     <link rel="stylesheet" href="tributepage.css">
     <div id="main"> Tribute Page
         <h1 id="title"> Computers 
