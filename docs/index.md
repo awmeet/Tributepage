@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<html>
+    <link rel="stylesheet" href="tributepage.css">
+    <div id="main"> Tribute Page
+        <h1 id="title"> Computers 
+        </h1>
+        <div id="img-div">
+            <div class="row">
+                <div class="column">
+                    <img id="image" src="a.jpg" alt="computer"><br>
+            <img id="image" src="b.jpg" alt="computer"><br>
+            <img id="image" src="c.JPG" alt="computer"><br>
+            <img id="image" src="d.jpg" alt="computer"><br>
+            <img id="image" src="e.jpg" alt="computer"><br>
 
-You can use the [editor on GitHub](https://github.com/awmeet/Tributepage/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+                </div>
+                <div class="column">
+                    <img id="image" src="f.jpg" alt="computer"><br>
+            <img id="image" src="g.jpg" alt="computer"><br>
+            <img id="image" src="h.JPG" alt="computer"><br>
+            <img id="image" src="i.png" alt="computer"><br>
+            <img id="image" src="j.jpg" alt="computer"><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                </div>
+            </div>
+            
+            
+              <br><figcaption id="img-caption">
+                An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            </figcaption>
+        </div>
+      <div id="tribute-info">
+          <b>Types Of Computer</b>
+          <ul>
+              <li> Supercomputer  </li>
+              <li> Mainframe Computer  </li>
+              <li> Minicomputer  </li>
+        
+          </ul>
 
-```markdown
-Syntax highlighted code block
+      
+      <a id="tribute-link" href ="https://en.wikipedia.org/wiki/Computer"  target="_blank"> <h1><b>Learn more about Computers</b></h1></a>
+      
+      </div>
+      
+      </div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awmeet/Tributepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
